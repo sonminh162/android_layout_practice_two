@@ -149,6 +149,7 @@
         tools:ignore="SmallSp" />
 
     <Button
+        android:textColor="#4a4a4a"
         android:id="@+id/button2"
         android:layout_width="204dp"
         android:layout_height="43.1dp"
